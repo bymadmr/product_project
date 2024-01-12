@@ -11,7 +11,7 @@
     <li><strong>Gereksinimler:</strong>
         <ul>
             <li>Flutter SDK'yi bilgisayarınıza <a href="https://flutter.dev/docs/get-started/install">buradan</a> indirip yükleyin.</li>
-            <li>Projeyi bilgisayarınıza klonlayın: <code>git clone https://github.com/kullanici/urun-yonetimi.git</code></li>
+            <li>Projeyi bilgisayarınıza klonlayın: <code>git clone https://github.com/bymadmr/product_project.git</code></li>
         </ul>
     </li>
     <li><strong>Bağımlılıkları Yükleyin:</strong>
